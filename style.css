@@ -1,0 +1,49 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.fast-section {
+    display: flex;
+}
+
+.eat-healthy {
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.eat-healthy img {
+    width: 80%;
+    padding-bottom: 5%;
+
+
+}
+
+h1 {
+    font-size: 120px;
+    padding-top: 10%;
+
+}
+
+#skip-color {
+    color: brown;
+}
+
+.eat-healthy p {
+    font-size: 150%;
+    padding-right: 40%;
+
+}
+
+.order-button {
+    font-size: 150%;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 140, 63), tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 30px;
+
+}
