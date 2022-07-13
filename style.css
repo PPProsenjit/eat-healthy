@@ -73,3 +73,51 @@ h1 {
     padding-right: 50%;
     padding-bottom: 5%;
 }
+
+.recipies-section {
+    display: inline;
+    align-items: center;
+}
+
+.recipies {
+    text-align: center;
+    font-family: 80%;
+    color: rgb(99, 97, 97);
+}
+
+.recipies p {
+    padding: 0% 33%;
+}
+
+.item-title {
+    display: flex;
+
+}
+
+.item-title img {
+    width: 100%;
+}
+
+.recipie-title {
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    box-shadow: 1px 1px 5px 5px gray;
+    margin: 5%;
+}
+
+.our-followers {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px 5px rgb(192, 182, 182);
+    margin: 5%;
+    space
+}
+
+.followers {
+    padding: 0% 5%;
+}
+
+.followers h2 {
+    font-size: 50px:
+}
